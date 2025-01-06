@@ -31,9 +31,9 @@ The **Online Movie Ticketing System** is a web-based platform designed to make m
 
 ## Technologies Used
 
-- **Front-End**: HTML5, CSS3, JavaScript
-- **Back-End**: ASP.NET, C#
-- **Database**: SQL Server
+- **Front-End**: HTML5, CSS3, ASP.NET, C# 
+- **Back-End**: JavaScript
+- **Database**: SQL Server 2014
 - **Development Environment**: Visual Studio 2019
 
 ## How to Run the Project
